@@ -1,0 +1,9 @@
+* {font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif}
+
+.ip-banner{
+    position: fixed;
+    font-size: 1em;
+    color: #888;
+    bottom: .4em;
+    right: .4em;
+}
