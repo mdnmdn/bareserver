@@ -1,4 +1,9 @@
 module.exports = {
+/*
+pm2 deploy ecosystem.config.js dev setup
+pm2 deploy ecosystem.config.js dev
+*/
+
   /**
    * Application configuration section
    * http://pm2.keymetrics.io/docs/usage/application-declaration/
