@@ -12,7 +12,7 @@ pm2 deploy ecosystem.config.js dev
 
     // First application
     {
-      name      : "bareserer",
+      name      : "bareserver",
       script    : "app.js",
       env: {
         COMMON_VARIABLE: "true"
